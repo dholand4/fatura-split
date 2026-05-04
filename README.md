@@ -26,13 +26,13 @@
 
 ---
 
-## 🤔 Sobre
+## Sobre
 
 Dividir a fatura do cartão entre amigos ou familiares é uma tarefa manual e propensa a erros. O **fatura-split** resolve isso: basta importar o PDF da fatura do Itaú, atribuir cada lançamento às pessoas envolvidas e o app calcula automaticamente o quanto cada um deve pagar — tudo direto no navegador, sem nenhum dado saindo do seu dispositivo.
 
 ---
 
-## ✅ Funcionalidades
+## Funcionalidades
 
 - 📄 Importação e leitura de PDF da fatura direto no navegador
 - 👥 Cadastro de pessoas para divisão das despesas
@@ -47,7 +47,7 @@ Dividir a fatura do cartão entre amigos ou familiares é uma tarefa manual e pr
 
 ---
 
-## 🏗️ Arquitetura
+## Arquitetura
 
 O projeto não possui backend. Todo o processamento acontece no navegador:
 
@@ -107,7 +107,7 @@ src/
 
 ---
 
-## 💻 Tecnologias
+## Tecnologias
 
 ### Base
 | Tecnologia | Uso |
@@ -145,7 +145,7 @@ src/
 
 ---
 
-## 🚀 Como rodar
+## Como rodar
 
 ### Pré-requisitos
 
@@ -184,7 +184,7 @@ npm run test:watch   # testes em modo watch
 
 ---
 
-## 🔭 Melhorias futuras
+## Melhorias futuras
 
 - [ ] Exportar e importar backup dos dados locais
 - [ ] Suporte a faturas de outros bancos
